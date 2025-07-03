@@ -66,7 +66,7 @@ I’m watching and practicing the section of the course that covers:
 
 ## 👤 Author
 
-Eduardo Murillo  
+Lucas Spizzica  
 *QA Engineer | Selenium & Java Automation Student*
 
 ---
